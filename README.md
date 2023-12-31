@@ -4,9 +4,9 @@ Hi 👋 My name is Tim Crutchley
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Alberta
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Machine Learning, Full Stack applications
+* 🌍  I'm based in British Columbia (Canada)
+* 🧠  I'm focusing on mastering backend APIs
+* 🤝  I'm open to collaborating on Full Stack applications
 * ⚡  A creative eye for design. Enjoy being involved in the early stages.
 
 ### Skills
